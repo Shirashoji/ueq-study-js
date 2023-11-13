@@ -21,6 +21,7 @@
     "yarn": "1.22.19"
   },
   "dependencies": {
-    "happy-dom": "^12.9.0"
+    "happy-dom": "^12.9.0",
+    "http-server": "^14.1.1"
   }
 }
